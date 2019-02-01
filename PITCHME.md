@@ -1,3 +1,7 @@
+@img[slide-img](assets/slides/Slide01.png)
+
+---
+
 ![](assets/slides/Slide01.png)
 
 ---
