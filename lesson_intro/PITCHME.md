@@ -2,7 +2,7 @@
 ---
 @img[slide-img](assets/Slide02.png)
 ---
-@img[slide-img](assets/slides/Slide03.png)
+@img[slide-img](lessons_intro/assets/Slide03.png)
 ---
 @img[slide-img](assets/slides/Slide05.png)
 ---
