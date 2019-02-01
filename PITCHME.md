@@ -1,5 +1,5 @@
 # first slide
-![](assets/slides/slide01.png)
+![](assets/slides/Slide01.png)
 
 ---
 
