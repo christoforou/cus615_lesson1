@@ -1,4 +1,4 @@
-@img[slide-img](assets/slides/Slide01.png)
+@img[slide-img](./assets/slides/Slide01.png)
 ---
 @img[slide-img](assets/slides/Slide02.png)
 ---
