@@ -1,4 +1,3 @@
-# first slide
 ![](assets/slides/Slide01.png)
 
 ---
