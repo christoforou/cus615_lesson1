@@ -26,3 +26,7 @@
   color: white;
   font-weight: bold;
 }
+
+.gp-menu {
+  display : none;
+}
