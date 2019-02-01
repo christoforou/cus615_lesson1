@@ -32,8 +32,6 @@
 ---
 @img[slide-img](lesson_intro/assets/slides/Slide17.png)
 ---
-@img[slide-img](lesson_intro/assets/slides/Slide18.png)
----
 @img[slide-img](lesson_intro/assets/slides/Slide19.png)
 ---
 @img[slide-img](lesson_intro/assets/slides/Slide20.png)
